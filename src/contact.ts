@@ -17,4 +17,4 @@ export function waLink(text: string) {
 }
 
 export const DEFAULT_WA =
-  "Hola, me interesa una visita para energía solar, seguridad o automatización.";
+  "Hola, quisiera información sobre portones eléctricos, paneles solares, aire acondicionado o cámaras y alarmas.";
